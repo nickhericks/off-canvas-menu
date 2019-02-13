@@ -4,7 +4,6 @@
 
 
 /* base styles and typography */
-
 :root {
   --color-mint: #dbfffa;
   --color-jade: #25c2a8;
@@ -20,7 +19,6 @@ html {
 body {
   background-color: var(--color-jade);
   color: var(--color-mint);
-  /* border: 2px blue solid; */
 }
 
 h1 {
@@ -39,28 +37,13 @@ a:focus {
   color: #fff;
 }
 
-/*
- * BEGIN EDITING FROM THIS POINT OWWARDS
- * =====================================
- */
 
-
-
-
-
-/**
- * Containers
- * ----------
- */
+/* Containers */
 
 .site-container {
   padding-top: 3rem;
   padding-left: 2.5rem;
   max-width: 33rem;
-}
-
-.offsite-is-open .site-container {
-  transform: translateX(14rem);
 }
 
 .offsite-container {
@@ -72,14 +55,13 @@ a:focus {
   background-color: var(--color-grey);
 }
 
+.offsite-is-open .site-container,
 .offsite-is-open .offsite-container {
   transform: translateX(14rem);
 }
 
-/**
- * Menu button
- * -----------
- */
+
+/*  Menu button */
 
 .menu-button {
   cursor: pointer;
@@ -118,9 +100,8 @@ annimation to the menu button. :)
   margin-top: 0.5rem;
 }
 
-/**
- *  Navigation
- */
+
+/* Navigation */
 
 .nav {
   margin-top: 8rem;

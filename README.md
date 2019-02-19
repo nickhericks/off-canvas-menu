@@ -8,7 +8,7 @@
 - CSS variables (Allows a CSS value to be stored in one place, then referenced in multiple other places within the stylesheet.)
 - Update styling of elements on the page using JavaScript by creating classes and adding/removing them to change the way they look instead of writing JavaScript to edit each element of styling individually.
 
-```javascript
+```css
 :root {
   --color-mint: #dbfffa;
   --color-jade: #25c2a8;

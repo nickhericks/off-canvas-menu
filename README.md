@@ -40,4 +40,4 @@
 This project is part of a great JS course called [Learn JavaScript](https://learnjavascript.today/). Thank you to the course creator [@zellwk](https://github.com/zellwk) :raised_hands:
 
 ## Demo
-<img src="https://raw.githubusercontent.com/zellwk/jsf/master/images/components/off-canvas/01-complete.gif?token=ABx4QS21LnOFP5RS0Uc_IK7CkfPnwWLFks5cbaDCwA%3D%3D" width="700">
+<img src="https://github.com/zellwk/jsf/raw/master/images/components/off-canvas/02-complete.gif" width="700">
